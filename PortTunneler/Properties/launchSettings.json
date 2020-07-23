@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PortTunneler": {
+      "commandName": "Project",
+      "commandLineArgs": "tunnel -r localhost -p 42666 -o 25565"
+    }
+  }
+}
